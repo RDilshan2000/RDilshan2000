@@ -1,4 +1,13 @@
-## Hi there 👋
+### 🏆 Professional Certifications
+
+<details>
+<summary>Click to view my certificates</summary>
+
+| Certificate Name | Issuing Organization | Verification Link |
+| :--- | :--- | :--- |
+| Getting Started with Cisco Packet Tracer | Cisco Networking Academy | [Verify](https://www.credly.com) |
+
+</details>
 
 <!--
 **RDilshan2000/RDilshan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
